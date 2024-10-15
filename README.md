@@ -39,16 +39,17 @@ Let’s connect! I’m excited to collaborate on projects that harness the trans
 - Utilized SQL for customer segmentation and data analysis.
 - Analyzed business performance using R for predictive modeling.
 
-### Trainee Business Officer**  
+**Trainee Business Officer**  
 01/2022 - 04/2022
 
 - Achieved a 95% compliance rate through effective regulatory audits.
 
-### Virtual Interns**
+### Virtual Interns
 **Leo Cussen & Accenture**  
 08/2020 - 09/2020
 
 - Improved project delivery timelines and client satisfaction through effective data analysis and project management.
+
 ## Volunteer Experience
 
 - **Cervical Cancer Awareness Program** (Jan 2024)
