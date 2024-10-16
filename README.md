@@ -1,9 +1,9 @@
 # payalkumari.github.io
 Analytics Portfolio
-<h1>
-    <img src="https://raw.githubusercontent.com/Payal-kumari1/payalkumari.github.io/main/IMG_0179.jpg" alt="Payal Kumari" style="border-radius: 50%; width: 100px; height: 100px; vertical-align: middle;"/>
-    Payal Kumari
-</h1>
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Payal-kumari1/payalkumari.github.io/main/IMG_0179.jpg" alt="Payal Kumari" style="border-radius: 50%; width: 100px; height: 100px;"/>
+    <h1 style="display: inline;">Payal Kumari</h1>
+</div>
 
 # ![Payal Kumari](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/IMG_0179.jpg)
 
