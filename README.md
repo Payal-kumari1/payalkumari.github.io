@@ -1,6 +1,6 @@
 # payalkumari.github.io
 Analytics Portfolio
-[Payal Kumari]([https://github.com/yourusername/yourrepository/raw/main/yourpicture.jpg](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/IMG_0179.jpg))
+[Payal Kumari](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/IMG_0179.jpg))
 
 # Hi, I'm Payal Kumari! 👋
 
