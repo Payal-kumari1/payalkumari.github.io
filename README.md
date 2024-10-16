@@ -4,65 +4,31 @@ Analytics Portfolio
 
 🌟 **Data-Driven Storyteller | Business Analyst | Aspiring Data Scientist**
 
-Hello! I'm Payal Kumari, a passionate advocate for the power of data to shape decisions and drive success. Currently pursuing my Master’s in Business Analytics at Brandeis International Business School, I specialize in transforming raw data into compelling narratives that inform strategic business moves.
+## Profile Summary
+Innovative and analytical Business Analyst with a knack for transforming complex data into compelling narratives that drive strategic decision-making. Currently pursuing a Master of Science in Business Analytics at Brandeis International Business School, I combine a solid foundation in project management with advanced analytical skills in Python, SQL, and Tableau. My track record includes spearheading a digital banking initiative that elevated online transactions by 30%, showcasing my ability to harness data for impactful business outcomes.
 
-With a robust background in project management and hands-on experience as a Business Analyst at MCB Bank, I led innovative projects that propelled digital transformation, including the launch of a digital banking platform that increased online transactions by 30%. My analytical toolkit is filled with Python, R, and SQL, which I use to unearth insights that enhance customer engagement and optimize processes.
+I thrive on collaboration and am passionate about uncovering insights that propel organizations forward. With a keen eye for detail and a proactive approach to problem-solving, I am eager to contribute to data-driven strategies that enhance efficiency and foster growth. As I seek opportunities as a Business Analyst or Data Analyst, I am excited to leverage my expertise in data storytelling and analytics to drive success in a forward-thinking organization.
 
-I thrive on challenges and am always eager to learn. Whether it's developing customer segmentation strategies that boost marketing effectiveness or creating stunning data visualizations, I approach each task with creativity and a keen eye for detail. 
+## Contact Information
+- Email: payalkumari@brandeis.edu
+- Phone: 781-456-0209
+- [LinkedIn Profile](https://linkedin.com/in/payal-kumari-7a5489222/)
 
-Beyond my professional pursuits, I am deeply committed to giving back through volunteer work, focusing on health awareness and community empowerment. I believe in the importance of using my skills for social good.
+## Education
+- **Brandeis International Business School**: M.S. in Business Analytics (Expected 02/2026)
+- **Shaheed Zulfiqar Ali Bhutto Institute**: M.S. in Project Management (with Distinction, 03/2023)
+- **Muhammad Ali Jinnah University**: B.B.A. (with Distinction, 12/2021)
 
-Let’s connect! I’m excited to collaborate on projects that harness the transformative power of data to create impactful solutions.
+## Experience
+For detailed information about my work experience, please refer to my resume: [View My Resume](link-to-your-resume)
 
-
-📍 Waltham, MA  
-📧 payalkumari@brandeis.edu  
-🔗 [LinkedIn](https://linkedin.com/in/payal-kumari-7a5489222/)
 ## Technical Skills
+- **Programming Languages**: SPSS, R, Python, SQL
+- **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
+- **Analytics**: Data Analytics
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-- **Analytics Tools**: SPSS, Tableau
-- **Software**: Advanced Microsoft Office, Google Suite, Canva
-## Work Experience
-
-### Brandeis International Business School
-**Graduate Office Assistant – OAASE**  
-09/2024 – Present
-
-- Managing front desk operations and maintaining an organized office environment.
-
-### MCB Bank
-**Business Analyst**  
-04/2022 - 07/2024
-
-- Led the launch of a digital banking platform, achieving a 30% increase in online transactions.
-- Utilized SQL for customer segmentation and data analysis.
-- Analyzed business performance using R for predictive modeling.
-
-**Trainee Business Officer**  
-01/2022 - 04/2022
-
-- Achieved a 95% compliance rate through effective regulatory audits.
-
-### Virtual Interns
-**Leo Cussen & Accenture**  
-08/2020 - 09/2020
-
-- Improved project delivery timelines and client satisfaction through effective data analysis and project management.
-
-## Volunteer Experience
-
-- **Cervical Cancer Awareness Program** (Jan 2024)
-  - Assisted in organizing awareness campaigns, improving community outreach efforts.
-
-- **Breast Cancer Awareness Program** (Oct 2023)
-  - Engaged in community education initiatives, promoting health awareness and resources.
-
-- **MCB Women Championship Program** (Aug 2023)
-  - Supported events aimed at empowering women in business and finance.
-
-- **SZABIST Job Fair** (Nov 2022)
-  - Volunteered to help coordinate the job fair, connecting students with potential employers.
-## Let's Connect!
-
-Feel free to reach out to me via email or connect with me on LinkedIn! I'm always open to discussions about data analytics, project management, and business insights.
+## Volunteer Activities
+- **Cervical Cancer Awareness Program** (Volunteered, Jan 2024)
+- **Breast Cancer Awareness Program** (Member, Oct 2023)
+- **MCB Women Championship Program** (Member, Aug 2023)
+- **SZABIST Job Fair** (Volunteered, Nov 2022)
