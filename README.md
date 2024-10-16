@@ -27,6 +27,55 @@ For detailed information about my work experience, please refer to my resume: [V
 - **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
 - **Analytics**: Data Analytics
 
+## Certifications/Workshops
+
+### Trainee Business Officers
+*Learning & Development Center, MCB Bank LTD*  
+Jan 2022 - Apr 2022
+
+### Effective Leadership & Conflict Management through SDI
+*Workshop on Leadership and Conflict Management, SZABIST*  
+Dec 2021
+
+### How to Use SMART Goals: Achieve More in Less Time
+*Online Short Course, Udemy*  
+Nov 2021 - Dec 2021
+
+### Exercising Leadership: Foundational Principles
+*Online Short Course on Leadership, Harvard University, HarvardX*  
+May 2021 - Jun 2021
+
+### Time Management Workshop
+*Workshop on Time Management, Muhammad Ali Jinnah University*  
+Oct 2017
+
+### Centre of Economic Research in Pakistan
+*Participated in CERP Survey, collaboration with IBA University & New York University*  
+May 2017
+
+## Research Work
+
+### Banking Can Never Be Foolproof: The Impact of HR Practices on Performance
+*Independent Research Study-I, SZABIST*  
+Oct 2022 - Jan 2023
+
+### Projects Are About Communications: Why Can't We Define Success or Failure?
+*Independent Research Study-II, SZABIST*  
+Oct 2022 - Jan 2023
+
+### The Effect of Simultaneous Work & Study on Personal Growth
+*Postgraduate Term Project, SZABIST*  
+Oct 2021 - Jan 2022
+
+### Determinants That Aid in Employee Retention in SBT Japan, Karachi, Pakistan
+*Undergraduate Final Research Project, Mohammad Ali Jinnah University*  
+Feb 2021 - July 2021
+
+### The Role of Talent Management in Organizational Performance of Pharmaceutical Companies in Karachi
+*Undergraduate Research Project, Mohammad Ali Jinnah University*  
+Jan 2020 - Jun 2020
+
+
 ## Volunteer Activities
 - **Cervical Cancer Awareness Program** (Volunteered, Jan 2024)
 - **Breast Cancer Awareness Program** (Member, Oct 2023)
