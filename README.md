@@ -20,7 +20,7 @@ I thrive on collaboration and am passionate about uncovering insights that prope
 - **Muhammad Ali Jinnah University**: B.B.A. (with Distinction, 12/2021)
 
 ## Experience
-For detailed information about my work experience, please refer to my resume: [View My Resume](link-to-your-resume)
+For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume.pdf)
 
 ## Technical Skills
 - **Programming Languages**: SPSS, R, Python, SQL
