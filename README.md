@@ -29,7 +29,7 @@ For detailed information about my work experience, please refer to my resume: [V
 - **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
 - **Analytics**: Data Analytics
 
-## Certifications/Workshops
+## Certifications
 
 ### Trainee Business Officers
 *Learning & Development Center, MCB Bank LTD*  
