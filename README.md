@@ -27,25 +27,23 @@ For detailed information about my work experience, please refer to my resume: [V
 
 ## 📂 Projects
 
-### 1. [Advanced SQL Analysis for Walmart](#)
-- **Objective**: Optimized database queries to analyze customer behavior, market trends, and product performance.
+### 1. [PJI Consultancy Squad: Harnessing Data to Understand and Engage Your Shoppers](#)
+- **Objective**: Optimized database queries and develop insights to help businesses better understand and engage their shoppers through data-driven analysis.
 - **Key Tools**: MySQL
-- **Highlights**:
-  - Developed insights into customer segmentation by income and education.
-  - Used SQL functions like `AVG`, `CASE`, and `BETWEEN` to identify trends.
-  
-### 2. [Database Manipulation and Design](#)
-- **Objective**: Designed and implemented databases to improve operational efficiency.
-- **Key Tools**: MySQL
-- **Highlights**:
-  - Implemented advanced SQL techniques to manipulate datasets and enhance usability.
-  - Designed database schemas focusing on user-friendly structures.
 
-### 3. [Data Preparation and Cleaning Report](#)
-- **Objective**: Prepared datasets for analysis, ensuring data quality and consistency.
-- **Key Tools**: Python, SQL
-- **Highlights**:
-  - Performed data cleansing, deduplication, and transformation for analysis readiness.
+![SQL Analysis Visualization](link-to-your-image-or-graph.png)
+
+- **Project Overview**:
+  - Analyzed large retail datasets to uncover consumer shopping behaviors and preferences.
+  - Focused on customer segmentation and the impact of marketing strategies on sales.
+  - Enhanced SQL queries for improved data retrieval and faster decision-making processes.
+
+- **Key Highlights**:
+  - Used SQL functions like `AVG`, `CASE`, and `BETWEEN` to uncover shopping trends and identify high-value customers.
+  - Developed customer profiles based on income, education, and purchase history.
+  - Provided actionable insights for marketing teams to enhance customer engagement.
+
+![Dashboard Screenshot](link-to-dashboard-image.png)
 
 ## 💡 Technical Skills
 - **Programming Languages**: SPSS, R, Python, SQL
