@@ -24,7 +24,30 @@ I thrive on collaboration and am passionate about uncovering insights that prope
 ## Experience
 For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume.pdf)
 
-## Technical Skills
+
+## 📂 Projects
+
+### 1. [Advanced SQL Analysis for Walmart](#)
+- **Objective**: Optimized database queries to analyze customer behavior, market trends, and product performance.
+- **Key Tools**: MySQL
+- **Highlights**:
+  - Developed insights into customer segmentation by income and education.
+  - Used SQL functions like `AVG`, `CASE`, and `BETWEEN` to identify trends.
+  
+### 2. [Database Manipulation and Design](#)
+- **Objective**: Designed and implemented databases to improve operational efficiency.
+- **Key Tools**: MySQL
+- **Highlights**:
+  - Implemented advanced SQL techniques to manipulate datasets and enhance usability.
+  - Designed database schemas focusing on user-friendly structures.
+
+### 3. [Data Preparation and Cleaning Report](#)
+- **Objective**: Prepared datasets for analysis, ensuring data quality and consistency.
+- **Key Tools**: Python, SQL
+- **Highlights**:
+  - Performed data cleansing, deduplication, and transformation for analysis readiness.
+
+## 💡 Technical Skills
 - **Programming Languages**: SPSS, R, Python, SQL
 - **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
 - **Analytics**: Data Analytics
