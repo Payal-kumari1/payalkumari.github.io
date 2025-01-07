@@ -22,8 +22,7 @@ I thrive on collaboration and am passionate about uncovering insights that prope
 - **Muhammad Ali Jinnah University**: B.B.A. (with Distinction, 12/2021)
 
 ## Experience
-For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume.pdf)
-
+For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume%20-%20Jan.pdf)
 
 ## 📂 Projects
 
@@ -31,27 +30,28 @@ For detailed information about my work experience, please refer to my resume: [V
 - **Objective**: Optimized database queries and develop insights to help businesses better understand and engage their shoppers through data-driven analysis.
 - **Key Tools**: MySQL, Python and Tableau
 In a world where businesses strive to understand their customers better, PJI Consultancy Squad embarked on a mission to unlock the hidden potential of data for Walmart, a global retail leader. Our project, built around the Customer Personality Analysis dataset, was more than just a technical exercise—it was a journey to redefine how businesses approach customer segmentation, targeted marketing, and decision-making.
-Please refer to my Project report: [View My Project Report](
-![SQL Analysis Visualization](link-to-your-image-or-graph.png)
+Please refer to my Project report: [View My Project Report](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/PJI%20Consultancy.pdf)
 
-- **Project Overview**:
-  - Analyzed large retail datasets to uncover consumer shopping behaviors and preferences.
-  - Focused on customer segmentation and the impact of marketing strategies on sales.
-  - Enhanced SQL queries for improved data retrieval and faster decision-making processes.
+The heart of our project lay in analyzing marketing campaigns. By examining response rates to various promotions, we identified trends that Walmart could leverage to optimize its marketing spend. High-income customers, for instance, were more likely to engage with premium campaigns, while frequent shoppers responded best to loyalty programs. We presented these insights with interactive dashboards, enabling Walmart’s marketing team to explore campaign performance in real time.
 
-- **Key Highlights**:
-  - Used SQL functions like `AVG`, `CASE`, and `BETWEEN` to uncover shopping trends and identify high-value customers.
-  - Developed customer profiles based on income, education, and purchase history.
-  - Provided actionable insights for marketing teams to enhance customer engagement.
+The project culminated in actionable recommendations. We proposed personalized strategies, such as targeting high-value customers with exclusive offers and using predictive models to time campaigns with customer buying cycles. Our database design ensured these strategies were grounded in reliable and scalable data structures, facilitating future analyses and decision-making.
 
-![Dashboard Screenshot](link-to-dashboard-image.png)
+![Customer Segmentation](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/customer_segmentation.png)
+![Average Spending](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/average_spending.png)
+![High Value Customers](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/high_value_customers.png)
+![Campaign Responses](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/campaign_responses.png)
+![Total Spending Trends](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/spending_trends.png)
 
 ## 💡 Technical Skills
-- **Programming Languages**: SPSS, R, Python, SQL
+- **Programming Languages**: SPSS, R, Python, MySQL
 - **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
-- **Analytics**: Data Analytics
+- **Analytics**: Data Analytics, Data Visualization, Business Analytics
 
 ## Certifications
+
+### New York Jobs CEO Council Financial Analyst
+*Virtual, Forage*
+Jan 2025
 
 ### Trainee Business Officers
 *Learning & Development Center, MCB Bank LTD*  
@@ -101,6 +101,7 @@ Jan 2020 - Jun 2020
 
 
 ## Volunteer Activities
+- **Graduation Reception** (Organized, Dec 2024)
 - **Cervical Cancer Awareness Program** (Volunteered, Jan 2024)
 - **Breast Cancer Awareness Program** (Member, Oct 2023)
 - **MCB Women Championship Program** (Member, Aug 2023)
