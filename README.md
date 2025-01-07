@@ -17,7 +17,7 @@ I thrive on collaboration and am passionate about uncovering insights that prope
 - [LinkedIn Profile](https://linkedin.com/in/payal-kumari-7a5489222/)
 
 ## Education
-- **Brandeis International Business School**: M.S. in Business Analytics (Expected 02/2026)
+- **Brandeis International Business School**: M.S. in Business Analytics (Expected 02/2026), Current CGPA 3.62
 - **Shaheed Zulfiqar Ali Bhutto Institute**: M.S. in Project Management (with Distinction, 03/2023)
 - **Muhammad Ali Jinnah University**: B.B.A. (with Distinction, 12/2021)
 
@@ -27,10 +27,11 @@ For detailed information about my work experience, please refer to my resume: [V
 
 ## 📂 Projects
 
-### 1. [PJI Consultancy Squad: Harnessing Data to Understand and Engage Your Shoppers](#)
+### 1. [PJI Consultancy: Driving Data-Driven Customer Insights](#)
 - **Objective**: Optimized database queries and develop insights to help businesses better understand and engage their shoppers through data-driven analysis.
-- **Key Tools**: MySQL
-
+- **Key Tools**: MySQL, Python and Tableau
+In a world where businesses strive to understand their customers better, PJI Consultancy Squad embarked on a mission to unlock the hidden potential of data for Walmart, a global retail leader. Our project, built around the Customer Personality Analysis dataset, was more than just a technical exercise—it was a journey to redefine how businesses approach customer segmentation, targeted marketing, and decision-making.
+Please refer to my Project report: [View My Project Report](
 ![SQL Analysis Visualization](link-to-your-image-or-graph.png)
 
 - **Project Overview**:
