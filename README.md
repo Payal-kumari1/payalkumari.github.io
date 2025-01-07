@@ -51,6 +51,7 @@ The project culminated in actionable recommendations. We proposed personalized s
 
 ### New York Jobs CEO Council Financial Analyst
 *Virtual, Forage*
+
 Jan 2025
 
 ### Trainee Business Officers
