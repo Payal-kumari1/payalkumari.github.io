@@ -42,6 +42,13 @@ The project culminated in actionable recommendations. We proposed personalized s
 ![Campaign Responses](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/campaign_responses.png)
 ![Total Spending Trends](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/spending_trends.png)
 
+### 2. [Optimizing Portfolio Returns: A Data-Driven Approach with Fama-French and Momentum](#)
+This project integrates the Fama-French Five Factor Model with the Momentum factor to develop a data-driven investment strategy for stock selection and portfolio optimization. Using historical S&P 500 data, we employed regression analysis and backtesting to evaluate the impact of factors such as market risk, size, value, profitability, and momentum on stock returns. A custom Brandeis Score was created to rank stocks, combining factor weights, alpha, and RMSE to identify undervalued and overrated stocks. The results demonstrated a consistently superior portfolio performance compared to the S&P 500 benchmark, providing actionable insights for long and short positions to optimize returns.
+
+![Average Coefficient](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Avg%20Coefficient.png)
+![Actual Vs Forecasted Returns](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Actual%20Vs%20Forecasted%20Returns.png)
+![Cumulative Returns](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Cumulative%20Returns.png)
+
 ## 💡 Technical Skills
 - **Programming Languages**: SPSS, R, Python, MySQL
 - **Software**: Advanced Microsoft Office, Tableau, Canva, Google Suite
