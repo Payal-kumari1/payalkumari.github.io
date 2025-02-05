@@ -109,6 +109,10 @@ Jan 2020 - Jun 2020
 
 
 ## Volunteer Activities
+- **Graduate Office Assistant - Office of Academic Affairs and Student Experiences at Brandeis International Business School** (Office Assistant, Sept 2024 - Present)
+- **MSF BootCamp** (Organized, Feb 2025)
+- **Lunar New Year - Chinese New Year** (Organized, Jan 2025)
+- **Spring Orientation** (Organized, Jan 2025)
 - **Graduation Reception** (Organized, Dec 2024)
 - **Cervical Cancer Awareness Program** (Volunteered, Jan 2024)
 - **Breast Cancer Awareness Program** (Member, Oct 2023)
