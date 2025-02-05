@@ -22,7 +22,7 @@ I thrive on collaboration and am passionate about uncovering insights that prope
 - **Muhammad Ali Jinnah University**: B.B.A. (with Distinction, 12/2021)
 
 ## Experience
-For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume%20-%20Jan.pdf)
+For detailed information about my work experience, please refer to my resume: [View My Resume](https://github.com/Payal-kumari1/payalkumari.github.io/blob/main/Kumari%20Payal%20Resume%20-%20FEB.pdf)
 
 ## 📂 Projects
 
