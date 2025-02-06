@@ -26,7 +26,7 @@ For detailed information about my work experience, please refer to my resume: [V
 
 ## 📂 Projects
 
-### 1. [PJI Consultancy: Driving Data-Driven Customer Insights](#)
+### 1. [PJI Consultancy: Driving Data-Driven Customer Insights - Walmart Sales Analysis](#)
 - **Objective**: Optimized database queries and develop insights to help businesses better understand and engage their shoppers through data-driven analysis.
 - **Key Tools**: MySQL, Python and Tableau
 In a world where businesses strive to understand their customers better, PJI Consultancy Squad embarked on a mission to unlock the hidden potential of data for Walmart, a global retail leader. Our project, built around the Customer Personality Analysis dataset, was more than just a technical exercise—it was a journey to redefine how businesses approach customer segmentation, targeted marketing, and decision-making.
